@@ -153,7 +153,8 @@ jobs:
       ${{ startsWith(github.head_ref, 'release/') }}
     runs-on: ubuntu-latest
     env:
-      nuget-token: '${{ secrets.NUGET_API_KEY }}'      
+      nuget-token: '${{ secrets.NUGET_API_KEY }}'
+      github-token: '${{ secrets.GH_Packages }}'
       working-directory: /home/runner/work/Secure.SAML/Secure.SAML
     steps:
       - name: Step-01 Retrieve Build Artifacts
@@ -167,7 +168,7 @@ jobs:
             curl \
             -X POST \
             -H "Accept:application/vnd.github+json" \
-            -H "Authorization:token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Authorization:token ${{ env.github-token }}" \
             https://api.github.com/ninjarocks/Secure.SAML/releases \
             -d '{"tag_name":v${{ needs.Package-Artifacts.outputs.semVersion }},"target_commitish":"master","name":"Secure.SAML","body":"Relese version ${{ needs.Package.outputs.semVersion }}","draft":false,"prerelease":false,"generate_release_notes":false}'
 

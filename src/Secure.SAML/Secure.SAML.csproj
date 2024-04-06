@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <OutputType>Library</OutputType>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>disable</Nullable>
@@ -11,27 +11,28 @@
     <PackRelease>true</PackRelease>
     <IsPackable>true</IsPackable>
     <AssemblyTitle>Secure.SAML</AssemblyTitle>
-    <RepositoryUrl>https://github.com/ninjarocks/Secure.SAML</RepositoryUrl>
+    <RepositoryUrl>https://github.com/techninjalabs/Secure.SAML</RepositoryUrl>
     <Product>Secure.SAML</Product>
-    <Copyright>© Copyright 2023 Ninja Sha!4h.</Copyright>
-    <Company>NinjaCorp Ltd.</Company>
-    <RepositoryUrl>https://github.com/ninjarocks/Secure.SAML</RepositoryUrl>
+    <Copyright>© Copyright 2024 Tech Ninja Labs.</Copyright>
+    <Authors>Tech Ninja Labs</Authors>
+    <Company>Tech Ninja Labs</Company>
+    <RepositoryUrl>https://github.com/techninjalabs/Secure.SAML</RepositoryUrl>
     <Title>Secure.SAML</Title>
     <PackageProjectUrl></PackageProjectUrl>
     <Description>.Net library to generate signed SAML 2.0 Response.</Description>
     <PackageTags>SAML; SAML Response; SHA1 SAML; SHA256 SAML; SHA512 SAML; SAML Assertion;</PackageTags>
-    <AssemblyVersion>1.0.5</AssemblyVersion>
-    <Version>2.0.0</Version>
+    <AssemblyVersion>3.0.0</AssemblyVersion>
+    <Version>3.0.0</Version>
     <PackageIcon>ninja-icon-16.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryType>GIT</RepositoryType>
-    <PackageReleaseNotes>Release Notes:
-    .Net utility to create SAML 2.0 Response
+    <PackageReleaseNotes>v3.0.0 Release Notes: .net 8.0
+    .Net utility to create Signed SAML 2.0 Response
       * Supported Signing Algorithms - SHA1, SHA256, SHA512
       * Signs Assertion or Response.
       * Outputs Base64 string or XMLDocument.</PackageReleaseNotes>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <FileVersion>2.0.0</FileVersion>
+    <FileVersion>3.0.0</FileVersion>
     <PackAsTool>False</PackAsTool>
   </PropertyGroup>
 
