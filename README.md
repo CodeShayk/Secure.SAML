@@ -4,7 +4,7 @@
 [![CodeQL](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-CodeQL.yml/badge.svg)](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-CodeQL.yml)
 [![GitHub Release](https://img.shields.io/github/v/release/ninjarocks/SAML2.Net?logo=github&sort=semver)](https://github.com/ninjarocks/SAML2.Net/releases/latest)
 [![.Net 9.0](https://img.shields.io/badge/.Net-9.0-blue)](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
-[![.Net Framework 4.6.4](https://img.shields.io/badge/.Net-4.6.4-blue)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46)
+[![.Net Framework 4.6.4](https://img.shields.io/badge/.Net-4.6.2-blue)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46)
 [![.Net Standard 2.0](https://img.shields.io/badge/.NetStandard-2.0-blue)](https://github.com/dotnet/standard/blob/v2.0.0/docs/versions/netstandard2.0.md)
 
 
