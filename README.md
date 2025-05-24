@@ -1,6 +1,6 @@
 # <img src="https://github.com/CodeShayk/SAML2.Net/blob/master/images/ninja-icon-16.png" alt="ninja" style="width:30px;"/> SAML2.Net v1.0.0
 [![NuGet version](https://badge.fury.io/nu/SAML2.Net.svg)](https://badge.fury.io/nu/SAML2.Net) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NinjaRocks/SAML2.Net/blob/master/License.md)
-[![CI](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-Build.yml/badge.svg)](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-Build.yml)
+[![Build](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-Build.yml/badge.svg)](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-Build.yml)
 [![CodeQL](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-CodeQL.yml/badge.svg)](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-CodeQL.yml)
 [![GitHub Release](https://img.shields.io/github/v/release/ninjarocks/SAML2.Net?logo=github&sort=semver)](https://github.com/ninjarocks/SAML2.Net/releases/latest)
 [![.Net 9.0](https://img.shields.io/badge/.Net-9.0-blue)](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
@@ -12,12 +12,12 @@
 
 ### Getting Started?
 #### i. Installation
-Install the latest version of SAML2.Net nuget package with command below. 
+Install the latest version of `SAML2.Net` nuget package with command below. 
 
 ```
 NuGet\Install-Package SAML2.Net 
 ```
-#### ii. Implementation: Using SAML2.Net
+#### ii. Implementation: Using `SAML2.Net`
 
 You can use this .Net library to generate signed SAML 2.0 Response with following parameters below-
 
