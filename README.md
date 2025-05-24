@@ -140,9 +140,6 @@ This project is licensed with the [MIT license](LICENSE).
 The main branch is now on .NET 9.0. 
 | Version  | Release Notes |
 | -------- | --------|
-| [`v4.0.0`](https://github.com/CodeShayk/SAML2.Net/tree/release/v4.0.0) |  [Notes](https://github.com/CodeShayk/SAML2.Net/releases/tag/v4.0.0) |
-| [`v3.0.0`](https://github.com/CodeShayk/SAML2.Net/tree/release/v3.0.0) |  [Notes](https://github.com/CodeShayk/SAML2.Net/releases/tag/v3.0.0) |
-| [`v2.0.0`](https://github.com/CodeShayk/SAML2.Net/tree/release/v2.0.0) |  [Notes](https://github.com/CodeShayk/SAML2.Net/releases/tag/v2.0.0) |
 | [`v1.0.0`](https://github.com/CodeShayk/SAML2.Net/tree/release/v1.0.1) |  [Notes](https://github.com/CodeShayk/SAML2.Net/releases/tag/v1.0.0) |
 
 ## Credits
