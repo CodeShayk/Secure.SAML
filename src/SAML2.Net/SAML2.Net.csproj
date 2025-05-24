@@ -1,0 +1,69 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net462;netstandard2.0;netstandard2.1;net9.0</TargetFrameworks>
+    <OutputType>Library</OutputType>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GeneratedAssemblyInfoFile>AssemblyInfo.cs</GeneratedAssemblyInfoFile>
+    <PackRelease>true</PackRelease>
+    <IsPackable>true</IsPackable>
+    <AssemblyTitle>SAML2.Net</AssemblyTitle>
+    <Product>SAML2.Net</Product>
+    <Copyright>© Copyright 2025 Code Shayk.</Copyright>
+    <Authors>CodeShayk</Authors>
+    <Company>CodeShayk</Company>
+    <Title>SAML2.Net</Title>
+    <PackageProjectUrl>https://github.com/codeshayk/SAML2.Net/wiki</PackageProjectUrl>
+    <Description>.Net library to generate signed SAML 2.0 Response.</Description>
+    <PackageTags>SAML; SAML Response; SAML2; SAML2 Response; SHA1 SAML; SHA256 SAML; SHA512 SAML; SAML2 Assertion; SAML Library</PackageTags>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <Version>1.0.0</Version>
+    <PackageIcon>ninja-icon-16.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageReleaseNotes>
+      v1.0.0 Release Notes: Targets .Net Framework 4.6.2; .Net Standards 2.0 and 2.1; .Net 9.0
+      .Net utility to create Signed SAML 2.0 Response
+      * Supported Signing Algorithms - SHA1, SHA256, SHA512
+      * Signs Assertion or Response.
+      * Outputs Base64 string or XMLDocument.
+    </PackageReleaseNotes>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <FileVersion>1.0.0</FileVersion>
+    <PackAsTool>False</PackAsTool>
+    <PackageId>SAML2.Net</PackageId>
+    <IncludeSymbols>True</IncludeSymbols>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <SymbolPackageFormat>symbols.nupkg</SymbolPackageFormat>
+    <RepositoryUrl>https://github.com/codeshayk/SAML2.Net</RepositoryUrl>
+    <AssemblyName>SAML2.Net</AssemblyName>
+    <RootNamespace>SAML2.Net</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\images\ninja-icon-16.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Security.Cryptography.Xml" Version="9.0.0" />
+  </ItemGroup>
+
+
+</Project>
