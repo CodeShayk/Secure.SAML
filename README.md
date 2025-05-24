@@ -1,4 +1,4 @@
-# <img src="https://github.com/CodeShayk/saml2.net/blob/master/Images/ninja-icon-16.png" alt="ninja" style="width:30px;"/>SAML2.Net v1.0.0
+# <img src="https://github.com/CodeShayk/saml2.net/blob/master/Images/ninja-icon-16.png" alt="ninja" style="width:30px;"/> SAML2.Net v1.0.0
 [![NuGet version](https://badge.fury.io/nu/SAML2.Net.svg)](https://badge.fury.io/nu/SAML2.Net) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NinjaRocks/SAML2.Net/blob/master/License.md)
 [![CI](https://github.com/CodeShayk/SAML2.Net/actions/workflows/CI-Build.yml/badge.svg)](https://github.com/CodeShayk/SAML2.Net/actions/workflows/CI-Build.yml)
 [![CodeQL](https://github.com/CodeShayk/SAML2.Net/actions/workflows/codeql.yml/badge.svg)](https://github.com/CodeShayk/SAML2.Net/actions/workflows/codeql.yml)
