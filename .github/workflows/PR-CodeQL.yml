@@ -12,7 +12,6 @@
 name: "PR-CodeQL"
 
 on:
-  push:
   pull_request:
     types: [opened, reopened, edited, synchronize]
     paths-ignore:

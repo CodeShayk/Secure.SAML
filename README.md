@@ -4,9 +4,9 @@
 [![CodeQL](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-CodeQL.yml/badge.svg)](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-CodeQL.yml)
 [![GitHub Release](https://img.shields.io/github/v/release/ninjarocks/SAML2.Net?logo=github&sort=semver)](https://github.com/ninjarocks/SAML2.Net/releases/latest)
 [![.Net 9.0](https://img.shields.io/badge/.Net-9.0-blue)](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
-[![.Net Framework 4.6.4](https://img.shields.io/badge/.Net-4.6.2-blue)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46)
-[![.Net Standard 2.0](https://img.shields.io/badge/.NetStandard-2.0-blue)](https://github.com/dotnet/standard/blob/v2.0.0/docs/versions/netstandard2.0.md)
-
+[![.Net Standard 2.1](https://img.shields.io/badge/.Net_Standard-2.1-blue)](https://github.com/dotnet/standard/blob/v2.0.0/docs/versions/netstandard2.1.md)
+[![.Net Standard 2.0](https://img.shields.io/badge/.Net_Standard-2.0-blue)](https://github.com/dotnet/standard/blob/v2.0.0/docs/versions/netstandard2.0.md)
+[![.Net Framework 4.6.2](https://img.shields.io/badge/.Net_Framework-4.6.2-blue)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46)
 
 ## .Net utility library to generate signed SAML 2.0 Response
 
@@ -140,7 +140,7 @@ This project is licensed with the [MIT license](LICENSE).
 The main branch is now on .NET 9.0. 
 | Version  | Release Notes |
 | -------- | --------|
-| [`v1.0.0`](https://github.com/CodeShayk/SAML2.Net/tree/release/v1.0.1) |  [Notes](https://github.com/CodeShayk/SAML2.Net/releases/tag/v1.0.0) |
+| [`v1.0.0`](https://github.com/CodeShayk/SAML2.Net/tree/release/v1.0.0) |  [Notes](https://github.com/CodeShayk/SAML2.Net/releases/tag/v1.0.0) |
 
 ## Credits
 Thank you for reading. Please fork, explore, contribute and report. Happy Coding !! :)
