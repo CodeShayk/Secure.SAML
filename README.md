@@ -8,7 +8,8 @@
 [![.Net Standard 2.0](https://img.shields.io/badge/.Net_Standard-2.0-blue)](https://github.com/dotnet/standard/blob/v2.0.0/docs/versions/netstandard2.0.md)
 [![.Net Framework 4.6.2](https://img.shields.io/badge/.Net_Framework-4.6.2-blue)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net46)
 
-## .Net utility library to generate signed SAML 2.0 Response
+## What is Secure.SAML?
+Secure.SAML is a robust .NET utility library designed to generate signed SAML 2.0 Response messages. It provides a clean, type-safe API for creating SAML assertions with support for multiple cryptographic signing algorithms and flexible configuration options.
 
 ### Getting Started?
 #### i. Installation
