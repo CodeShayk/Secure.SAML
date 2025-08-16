@@ -15,7 +15,7 @@
 Install the latest version of `Secure.SAML` nuget package with command below. 
 
 ```
- Install-Package Secure.SAML 
+ Install-Package Secure.SAML
 ```
 #### ii. Implementation: Using `Secure.SAML`
 
