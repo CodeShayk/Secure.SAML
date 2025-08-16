@@ -1,8 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
-using Secure.SAML.Signing;
-using Secure.SAML;
 
 namespace Secure.SAML.Signing
 {

@@ -4,7 +4,6 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Xml;
-using Secure.SAML.v2;
 using Secure.SAML.Signing;
 
 namespace Secure.SAML.v2
