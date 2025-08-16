@@ -15,7 +15,7 @@
 Install the latest version of `Secure.SAML` nuget package with command below. 
 
 ```
-NuGet\Install-Package Secure.SAML 
+ Install-Package Secure.SAML 
 ```
 #### ii. Implementation: Using `Secure.SAML`
 
@@ -135,12 +135,6 @@ If you are having problems, please let me know by [raising a new issue](https://
 ## License
 
 This project is licensed with the [MIT license](LICENSE).
-
-## Version History
-The main branch is now on .NET 9.0. 
-| Version  | Release Notes |
-| -------- | --------|
-| [`v1.0.0`](https://github.com/CodeShayk/Secure.SAML/tree/release/v1.0.0) |  [Notes](https://github.com/CodeShayk/Secure.SAML/releases/tag/v1.0.0) |
 
 ## Credits
 Thank you for reading. Please fork, explore, contribute and report. Happy Coding !! :)
