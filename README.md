@@ -2,7 +2,7 @@
 [![NuGet version](https://badge.fury.io/nu/Secure.SAML.svg)](https://badge.fury.io/nu/Secure.SAML) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NinjaRocks/Secure.SAML/blob/master/License.md)
 [![Build](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-Build.yml/badge.svg)](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-Build.yml)
 [![CodeQL](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-CodeQL.yml/badge.svg)](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-CodeQL.yml)
-[![GitHub Release](https://img.shields.io/github/v/release/ninjarocks/Secure.SAML?logo=github&sort=semver)](https://github.com/ninjarocks/Secure.SAML/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/CodeShayk/Secure.SAML?logo=github&sort=semver)](https://github.com/CodeShayk/Secure.SAML/releases/latest)
 [![.Net 9.0](https://img.shields.io/badge/.Net-9.0-blue)](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 [![.Net Standard 2.1](https://img.shields.io/badge/.Net_Standard-2.1-blue)](https://github.com/dotnet/standard/blob/v2.0.0/docs/versions/netstandard2.1.md)
 [![.Net Standard 2.0](https://img.shields.io/badge/.Net_Standard-2.0-blue)](https://github.com/dotnet/standard/blob/v2.0.0/docs/versions/netstandard2.0.md)
