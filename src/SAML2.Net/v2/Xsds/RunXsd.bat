@@ -1,1 +1,0 @@
-xsd xmldsig-core-schema.xsd xenc-core-schema.xsd saml-schema-assertion-2.0.xsd saml-schema-protocol-2.0.xsd /classes /namespace:SAML2.Net /outputdir:..

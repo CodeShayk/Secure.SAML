@@ -1,8 +1,8 @@
-# <img src="https://github.com/CodeShayk/SAML2.Net/blob/master/images/ninja-icon-16.png" alt="ninja" style="width:30px;"/> SAML2.Net v1.0.0
-[![NuGet version](https://badge.fury.io/nu/SAML2.Net.svg)](https://badge.fury.io/nu/SAML2.Net) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NinjaRocks/SAML2.Net/blob/master/License.md)
-[![Build](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-Build.yml/badge.svg)](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-Build.yml)
-[![CodeQL](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-CodeQL.yml/badge.svg)](https://github.com/CodeShayk/SAML2.Net/actions/workflows/Master-CodeQL.yml)
-[![GitHub Release](https://img.shields.io/github/v/release/ninjarocks/SAML2.Net?logo=github&sort=semver)](https://github.com/ninjarocks/SAML2.Net/releases/latest)
+# <img src="https://github.com/CodeShayk/Secure.SAML/blob/master/images/ninja-icon-16.png" alt="ninja" style="width:30px;"/> Secure.SAML v4.5.0
+[![NuGet version](https://badge.fury.io/nu/Secure.SAML.svg)](https://badge.fury.io/nu/Secure.SAML) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NinjaRocks/Secure.SAML/blob/master/License.md)
+[![Build](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-Build.yml/badge.svg)](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-Build.yml)
+[![CodeQL](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-CodeQL.yml/badge.svg)](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-CodeQL.yml)
+[![GitHub Release](https://img.shields.io/github/v/release/ninjarocks/Secure.SAML?logo=github&sort=semver)](https://github.com/ninjarocks/Secure.SAML/releases/latest)
 [![.Net 9.0](https://img.shields.io/badge/.Net-9.0-blue)](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 [![.Net Standard 2.1](https://img.shields.io/badge/.Net_Standard-2.1-blue)](https://github.com/dotnet/standard/blob/v2.0.0/docs/versions/netstandard2.1.md)
 [![.Net Standard 2.0](https://img.shields.io/badge/.Net_Standard-2.0-blue)](https://github.com/dotnet/standard/blob/v2.0.0/docs/versions/netstandard2.0.md)
@@ -12,12 +12,12 @@
 
 ### Getting Started?
 #### i. Installation
-Install the latest version of `SAML2.Net` nuget package with command below. 
+Install the latest version of `Secure.SAML` nuget package with command below. 
 
 ```
-NuGet\Install-Package SAML2.Net 
+NuGet\Install-Package Secure.SAML 
 ```
-#### ii. Implementation: Using `SAML2.Net`
+#### ii. Implementation: Using `Secure.SAML`
 
 You can use this .Net library to generate signed SAML 2.0 Response with following parameters below-
 
@@ -130,7 +130,7 @@ Example Generated SAML :-
 ```
 ## Support
 
-If you are having problems, please let me know by [raising a new issue](https://github.com/CodeShayk/SAML2.Net/issues/new/choose).
+If you are having problems, please let me know by [raising a new issue](https://github.com/CodeShayk/Secure.SAML/issues/new/choose).
 
 ## License
 
@@ -140,7 +140,7 @@ This project is licensed with the [MIT license](LICENSE).
 The main branch is now on .NET 9.0. 
 | Version  | Release Notes |
 | -------- | --------|
-| [`v1.0.0`](https://github.com/CodeShayk/SAML2.Net/tree/release/v1.0.0) |  [Notes](https://github.com/CodeShayk/SAML2.Net/releases/tag/v1.0.0) |
+| [`v1.0.0`](https://github.com/CodeShayk/Secure.SAML/tree/release/v1.0.0) |  [Notes](https://github.com/CodeShayk/Secure.SAML/releases/tag/v1.0.0) |
 
 ## Credits
 Thank you for reading. Please fork, explore, contribute and report. Happy Coding !! :)
