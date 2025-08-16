@@ -1,5 +1,3 @@
-using Secure.SAML;
-
 namespace Secure.SAML.Signing
 {
     internal interface ISamlSignerFactory
