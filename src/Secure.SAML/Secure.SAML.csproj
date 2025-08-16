@@ -24,8 +24,7 @@
     <PackageIcon>ninja-icon-16.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryType>GIT</RepositoryType>
-    <PackageReleaseNotes>
-      v4.5.0 Release Notes: Targets .Net Framework 4.6.2; .Net Standards 2.0 and 2.1; .Net 9.0
+    <PackageReleaseNotes>      v4.5.0 Release Notes: Targets .Net Framework 4.6.2; .Net Standards 2.0 and 2.1; .Net 9.0
       .Net utility to create Signed SAML 2.0 Response
       * Supported Signing Algorithms - SHA1, SHA256, SHA512
       * Signs Assertion or Response.
