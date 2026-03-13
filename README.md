@@ -1,4 +1,4 @@
-# <img src="https://github.com/CodeShayk/Secure.SAML/blob/master/images/ninja-icon-16.png" alt="ninja" style="width:30px;"/> Secure.SAML v4.5.0
+# <img src="https://github.com/CodeShayk/Secure.SAML/blob/master/images/saml-icon.png" alt="ninja" style="width:50px;"/> Secure.SAML v4.5.0
 [![NuGet version](https://badge.fury.io/nu/Secure.SAML.svg)](https://badge.fury.io/nu/Secure.SAML) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NinjaRocks/Secure.SAML/blob/master/License.md)
 [![Build](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-Build.yml/badge.svg)](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-Build.yml)
 [![CodeQL](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-CodeQL.yml/badge.svg)](https://github.com/CodeShayk/Secure.SAML/actions/workflows/Master-CodeQL.yml)
